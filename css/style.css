@@ -823,6 +823,11 @@ video {
     margin-bottom: 7rem;
   }
 
+  .md\:my-12 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
   .md\:mt-28 {
     margin-top: 7rem;
   }
